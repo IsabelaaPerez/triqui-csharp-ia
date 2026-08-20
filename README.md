@@ -1,4 +1,3 @@
-README.md
 # Triqui (Tic-Tac-Toe) en C# con IA
 
 ¡Bienvenido/a a mi proyecto! Este es un juego clásico de Triqui (Tres en Raya) desarrollado completamente en **C#**, diseñado para poner a prueba la lógica de programación y la implementación de algoritmos de toma de decisiones.
